@@ -1,0 +1,6 @@
+In Our Contest, If any part is not there in code then it is not a bug, 
+If there is code for particular part and not working properly then it is bug.
+
+eg. not file found - Check if webpage is there or that section is there (for single-site webpage)
+if not there it is not a bug .. If there , Note Due to what mistake in source code bug is there.
+
